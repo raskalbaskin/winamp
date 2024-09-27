@@ -13,7 +13,7 @@ The Winamp Collaborative License is a free, copyleft license for software and ot
 - "The Program" refers to any copyrightable work Licensed under this License.
 - "You" refers to each Licensee, whether an individual or organization.
 - "Modify" means to copy from or adapt all or part of the work in a fashion requiring copyright permission, other than the making of an exact copy.
-- "Covered Work" means a work based on the Program, like patch or patch set to apply to the binary or the source of the Program.
+- "Covered Work" means a work based on the Program, like a patch or patch set to apply to the binary or the source of the Program.
 - "Convey" means any kind of propagation that enables other parties to make or receive copies.
 
 ### 2. Basic Permissions
