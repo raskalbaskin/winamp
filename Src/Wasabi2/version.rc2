@@ -25,7 +25,7 @@ BEGIN
             VALUE "FileDescription", "Winamp 5.x System Component"
             VALUE "FileVersion", STR_WINAMP_PRODUCTVER
             VALUE "InternalName", "wasabi2.w5s"
-            VALUE "LegalCopyright", "Copyright © 2012-2023 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 2012-2024 Winamp SA"
             VALUE "LegalTrademarks", "Nullsoft and Winamp are trademarks of Winamp SA"
             VALUE "OriginalFilename", "wasabi2.w5s"
             VALUE "ProductName", "Winamp Wasabi v2 Services Loader"

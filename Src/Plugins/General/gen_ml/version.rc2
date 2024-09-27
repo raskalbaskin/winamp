@@ -25,7 +25,7 @@ BEGIN
             VALUE "FileDescription", "Winamp General Purpose Plug-in"
             VALUE "FileVersion", "3,78,0,0"
             VALUE "InternalName", "Nullsoft Media Library"
-            VALUE "LegalCopyright", "Copyright © 2003-2023 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 2003-2024 Winamp SA"
             VALUE "LegalTrademarks", "Nullsoft and Winamp are trademarks of Winamp SA"
             VALUE "OriginalFilename", "gen_ml.dll"
             VALUE "ProductName", "Winamp"

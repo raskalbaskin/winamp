@@ -548,7 +548,7 @@ BEGIN
     IDS_FAMILY_STRING_COMPRESSED_MIDI "Compressed MIDI File"
     IDS_FAMILY_STRING_COMPRESSED_HMI_MIDI 
                             "Compressed Human Machine Interfaces MIDI File"
-    IDS_ABOUT_TEXT          "%s\n© 2000-2023 Winamp SA\n\nBuild date: %hs"
+    IDS_ABOUT_TEXT          "%s\n© 2000-2024 Winamp SA\n\nBuild date: %hs"
 END
 
 #endif    // English (U.S.) resources

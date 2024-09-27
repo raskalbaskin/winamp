@@ -308,7 +308,7 @@ BEGIN
     IDS_UNKNOWN             "unknown"
     IDS_UNKNOWN_ARTIST      "Unknown Artist"
     IDS_FAMILY_STRING       "CD Audio Track shortcut"
-    IDS_ABOUT_TEXT          "%s\nCopyright © 1997-2023 Winamp SA\n\nBuild date: %s\n\nHow to use:\n   For CD audio, open cda://<cd drive letter>\n   (or use the command in winamp)\n\n   You can also play individual CD tracks using\n   cda://<letter>,<number>\n\n"
+    IDS_ABOUT_TEXT          "%s\nCopyright © 1997-2024 Winamp SA\n\nBuild date: %s\n\nHow to use:\n   For CD audio, open cda://<cd drive letter>\n   (or use the command in winamp)\n\n   You can also play individual CD tracks using\n   cda://<letter>,<number>\n\n"
 END
 
 STRINGTABLE 

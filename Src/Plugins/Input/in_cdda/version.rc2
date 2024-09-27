@@ -25,7 +25,7 @@ BEGIN
             VALUE "FileDescription", "Winamp Input Plug-in"
             VALUE "FileVersion", "4,7,0,0"
             VALUE "InternalName", "Nullsoft CD Plug-in"
-            VALUE "LegalCopyright", "Copyright © 1997-2023 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 1997-2024 Winamp SA"
             VALUE "LegalTrademarks", "Nullsoft and Winamp are trademarks of Winamp SA"
             VALUE "OriginalFilename", "in_cdda.dll"
             VALUE "ProductName", "Winamp"

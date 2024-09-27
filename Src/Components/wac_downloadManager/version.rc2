@@ -25,7 +25,7 @@ BEGIN
             VALUE "FileDescription",  "Winamp 5.x System Component"
             VALUE "FileVersion",      STR_WINAMP_PRODUCTVER
             VALUE "InternalName",     "wac_downloadManager.w5s"
-            VALUE "LegalCopyright",   "Copyright © 2007-2022 Winamp SA"
+            VALUE "LegalCopyright",   "Copyright © 2007-2024 Winamp SA"
             VALUE "LegalTrademarks",  "Nullsoft and Winamp are trademarks of Winamp SA"
             VALUE "OriginalFilename", "wac_downloadManager.w5s"
             VALUE "ProductName",      "Winamp downloadManager Service"

@@ -25,7 +25,7 @@ BEGIN
             VALUE "FileDescription", "Winamp 5.x System Component"
             VALUE "FileVersion", STR_WINAMP_PRODUCTVER
             VALUE "InternalName", "filereader.w5s"
-            VALUE "LegalCopyright", "Copyright © 2005-2023 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 2005-2024 Winamp SA"
             VALUE "LegalTrademarks", "Nullsoft and Winamp are trademarks of Winamp SA"
             VALUE "OriginalFilename", "filereader.w5s"
             VALUE "ProductName", "Winamp File Reader Service"

@@ -44,7 +44,7 @@ BEGIN
             VALUE "FileDescription", "Winamp General Purpose Plug-in"
             VALUE "FileVersion", "1,55,0,0"
             VALUE "InternalName", "Nullsoft Modern Skins Support"
-            VALUE "LegalCopyright", "Copyright © 2003-2023 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 2003-2024 Winamp SA"
             VALUE "LegalTrademarks", "Nullsoft and Winamp are trademarks of Winamp SA"
             VALUE "OriginalFilename", "gen_ff.dll"
             VALUE "ProductName", "Winamp"

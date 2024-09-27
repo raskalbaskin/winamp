@@ -25,7 +25,7 @@ BEGIN
             VALUE "FileDescription", "Winamp Media Library Plug-in"
             VALUE "FileVersion", "2,0,0,1"
             VALUE "InternalName", "Nullsoft Rip & Burn"
-            VALUE "LegalCopyright", "Copyright © 2003-2023 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 2003-2024 Winamp SA"
             VALUE "LegalTrademarks", "Nullsoft and Winamp are trademarks of Winamp SA"
             VALUE "OriginalFilename", "ml_disc.dll"
             VALUE "ProductName", "Winamp"

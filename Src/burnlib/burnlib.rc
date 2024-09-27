@@ -273,7 +273,7 @@ BEGIN
             VALUE "FileDescription", "Winamp Support Library"
             VALUE "FileVersion", "5, 8, 0, 0"
             VALUE "InternalName", "burnlib.dll"
-            VALUE "LegalCopyright", "Copyright © 2003-2019 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 2003-2024 Winamp SA"
             VALUE "OriginalFilename", "burnlib.dll"
             VALUE "ProductName", "Winamp CD Rip & Burn Resources"
             VALUE "ProductVersion", "5, 8, 0, 0"

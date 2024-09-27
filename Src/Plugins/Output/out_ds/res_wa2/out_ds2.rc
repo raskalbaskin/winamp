@@ -283,7 +283,7 @@ END
 STRINGTABLE 
 BEGIN
     IDS_DS_DB               "dB"
-    IDS_ABOUT_TEXT          "%s\n© 2005-2023 Winamp SA\n© 2001-2002 Peter Pawlowski\t\nBuild date: %hs"
+    IDS_ABOUT_TEXT          "%s\n© 2005-2024 Winamp SA\n© 2001-2002 Peter Pawlowski\t\nBuild date: %hs"
     IDS_7_1                 "7.1"
 END
 
