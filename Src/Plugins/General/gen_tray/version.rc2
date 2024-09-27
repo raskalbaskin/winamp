@@ -25,7 +25,7 @@ BEGIN
             VALUE "FileDescription", "Winamp General Purpose Plug-in"
             VALUE "FileVersion", "2,49,0,0"
             VALUE "InternalName", "Nullsoft Notification Area Control"
-            VALUE "LegalCopyright", "Copyright © 1997-2023 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 1997-2024 Winamp SA"
             VALUE "LegalTrademarks", "Nullsoft and Winamp are trademarks of Winamp SA"
             VALUE "OriginalFilename", "gen_tray.dll"
             VALUE "ProductName", "Winamp"

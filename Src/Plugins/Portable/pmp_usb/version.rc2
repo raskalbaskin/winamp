@@ -25,7 +25,7 @@ BEGIN
             VALUE "FileDescription", "Winamp Portable Device Plug-in"
             VALUE "FileVersion", "1,62,0,0"
             VALUE "InternalName", "Nullsoft USB Device"
-            VALUE "LegalCopyright", "Copyright © 2006-2023 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 2006-2024 Winamp SA"
             VALUE "LegalTrademarks", "Nullsoft and Winamp are trademarks of Winamp SA"
             VALUE "OriginalFilename", "pmp_usb.dll"
             VALUE "ProductName", "Winamp"

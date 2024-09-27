@@ -25,7 +25,7 @@ BEGIN
             VALUE "FileDescription", "Winamp Visualization Plug-in"
             VALUE "FileVersion", "2,16,0,0"
             VALUE "InternalName", "Nullsoft Tiny Fullscreen"
-            VALUE "LegalCopyright", "Copyright © 2001-2023 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 2001-2024 Winamp SA"
             VALUE "LegalTrademarks", "Nullsoft and Winamp are trademarks of Winamp SA"
             VALUE "OriginalFilename", "vis_nsfs.dll"
             VALUE "ProductName", "Winamp"

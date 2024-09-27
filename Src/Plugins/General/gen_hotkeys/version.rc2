@@ -25,7 +25,7 @@ BEGIN
             VALUE "FileDescription", "Winamp General Purpose Plug-in"
             VALUE "FileVersion", "1,97,0,0"
             VALUE "InternalName", "Nullsoft Global Hotkeys"
-            VALUE "LegalCopyright", "Copyright © 2003-2023 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 2003-2024 Winamp SA"
             VALUE "LegalTrademarks", "Nullsoft and Winamp are trademarks of Winamp SA"
             VALUE "OriginalFilename", "gen_hotkeys.dll"
             VALUE "ProductName", "Winamp"

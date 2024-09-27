@@ -25,7 +25,7 @@ BEGIN
             VALUE "FileDescription", "Winamp DSP Plug-in"
             VALUE "FileVersion", "1,0,2,0"
             VALUE "InternalName", "Nullsoft Signal Processing Studio DSP"
-            VALUE "LegalCopyright", "Copyright © 2003-2023 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 2003-2024 Winamp SA"
             VALUE "LegalTrademarks", "Nullsoft and Winamp are trademarks of Winamp SA"
             VALUE "OriginalFilename", "dsp_sps.dll"
             VALUE "ProductName", "Winamp"

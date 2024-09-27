@@ -25,7 +25,7 @@ BEGIN
             VALUE "FileDescription", "Winamp Media Library Plug-in"
             VALUE "FileVersion", "2,3,4,0"
             VALUE "InternalName", "Nullsoft WebDev Test Platform"
-            VALUE "LegalCopyright", "Copyright © 1997-2023 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 1997-2024 Winamp SA"
             VALUE "LegalTrademarks", "Nullsoft and Winamp are trademarks of Winamp SA"
             VALUE "OriginalFilename", "ml_webdev.dll"
             VALUE "ProductName", "Winamp"

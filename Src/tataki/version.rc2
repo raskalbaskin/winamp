@@ -25,7 +25,7 @@ BEGIN
             VALUE "FileDescription", "Winamp Support Library"
             VALUE "FileVersion", STR_WINAMP_PRODUCTVER
             VALUE "InternalName", "tataki.dll"
-            VALUE "LegalCopyright", "Copyright © 2005-2023 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 2005-2024 Winamp SA"
             VALUE "LegalTrademarks", "Nullsoft and Winamp are trademarks of Winamp SA"
             VALUE "OriginalFilename", "tataki.dll"
             VALUE "ProductName", "Winamp Shared Code Library"

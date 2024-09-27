@@ -25,7 +25,7 @@ BEGIN
             VALUE "FileDescription", "Winamp 5.x System Component"
             VALUE "FileVersion", STR_WINAMP_PRODUCTVER
             VALUE "InternalName", "auth.w5s"
-            VALUE "LegalCopyright", "Copyright © 2006-2019 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 2006-2024 Winamp SA"
             VALUE "LegalTrademarks", "Nullsoft and Winamp are trademarks of Winamp SA"
             VALUE "OriginalFilename", "auth.w5s"
             VALUE "ProductName", "Winamp Authentication Service"

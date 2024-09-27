@@ -25,7 +25,7 @@ BEGIN
             VALUE "FileDescription", "Winamp3 Legacy Component"
             VALUE "FileVersion", STR_WINAMP_PRODUCTVER
             VALUE "InternalName", "freetype.wac"
-            VALUE "LegalCopyright", "Copyright © 2003-2023 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 2003-2024 Winamp SA"
             VALUE "LegalTrademarks", "Nullsoft and Winamp are trademarks of Winamp SA"
             VALUE "OriginalFilename", "freetype.wac"
             VALUE "ProductName", "Winamp Freetype Font Service"

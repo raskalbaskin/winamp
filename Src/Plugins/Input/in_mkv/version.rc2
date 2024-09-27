@@ -25,7 +25,7 @@ BEGIN
             VALUE "FileDescription", "Winamp Input Plug-in"
             VALUE "FileVersion", "0,86,0,0"
             VALUE "InternalName", "Nullsoft Matroksa Demuxer"
-            VALUE "LegalCopyright", "Copyright © 2009-2023 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 2009-2024 Winamp SA"
             VALUE "LegalTrademarks", "Nullsoft and Winamp are trademarks of Winamp SA"
             VALUE "OriginalFilename", "in_mkv.dll"
             VALUE "ProductName", "Winamp"

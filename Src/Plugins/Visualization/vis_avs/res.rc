@@ -583,7 +583,7 @@ FONT 8, "MS Sans Serif", 0, 0, 0x1
 BEGIN
     DEFPUSHBUTTON   "Close",IDOK,77,129,50,14
     LTEXT           "version string",IDC_VERSTR,7,7,191,8
-    LTEXT           "Copyright (C) 1998-2023 Winamp SA",IDC_STATIC,7,16,191,8
+    LTEXT           "Copyright (C) 1998-2024 Winamp SA",IDC_STATIC,7,16,191,8
     CTEXT           "Justin Frankel, Francis Gastellu, Christophe Thibault\r\nBrennan Underwood && mig",
                     IDC_STATIC,22,85,168,19
     LTEXT           "Portions Copyright (C) 2010 Cockos Incorporated\r\r\nThis software is BSD-licensed open source.",
@@ -2062,7 +2062,7 @@ BEGIN
                             "Still initializing previous preset"
     IDS_MAIN                "Main"
     IDS_ERROR_CREATING_DDRAW_OBJECT "Error creating ddraw object"
-    IDS_ABOUT_STRING        "\t%s\n\tCopyright (C) 1998-2023 Winamp SA\nPortions Copyright (C) 2010 Cockos Incorporated\r\r\nThis software is BSD-licensed open source.\n\nYou are welcome to use\nAVS at parties, clubs, concerts and whatnot.\nJust give credit where credit is due.\n\nLove,\n    Justin Frankel, Francis Gastellu, Christophe Thibault,\n    Brennan Underwood & mig\n\nSpecial thanks to Steven Wittens and Tom Holden."
+    IDS_ABOUT_STRING        "\t%s\n\tCopyright (C) 1998-2024 Winamp SA\nPortions Copyright (C) 2010 Cockos Incorporated\r\r\nThis software is BSD-licensed open source.\n\nYou are welcome to use\nAVS at parties, clubs, concerts and whatnot.\nJust give credit where credit is due.\n\nLove,\n    Justin Frankel, Francis Gastellu, Christophe Thibault,\n    Brennan Underwood & mig\n\nSpecial thanks to Steven Wittens and Tom Holden."
     IDS_ABOUT_AVS           "About AVS"
     IDS_REQUIRES_2_9_PLUS   "This version of AVS requires Winamp 2.9+"
     IDS_AVS_ERROR           "AVS Error"

@@ -25,7 +25,7 @@ BEGIN
             VALUE "FileDescription", "Winamp Output Plug-in"
             VALUE "FileVersion", "2,18,0,0"
             VALUE "InternalName", "Nullsoft Disk Writer"
-            VALUE "LegalCopyright", "Copyright © 2005-2023 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 2005-2024 Winamp SA"
             VALUE "LegalTrademarks", "Nullsoft and Winamp are trademarks of Winamp SA"
             VALUE "OriginalFilename", "out_disk.dll"
             VALUE "ProductName", "Winamp"

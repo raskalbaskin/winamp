@@ -25,7 +25,7 @@ BEGIN
             VALUE "FileDescription", "Winamp Input Plug-in"
             VALUE "FileVersion", "3,16,0,0"
             VALUE "InternalName", "Nullsoft LineIn Plug-in"
-            VALUE "LegalCopyright", "Copyright © 1997-2023 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 1997-2024 Winamp SA"
             VALUE "LegalTrademarks", "Nullsoft and Winamp are trademarks of Winamp SA"
             VALUE "OriginalFilename", "in_linein.dll"
             VALUE "ProductName", "Winamp"

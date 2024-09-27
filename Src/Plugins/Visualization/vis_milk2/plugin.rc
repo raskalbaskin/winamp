@@ -484,7 +484,7 @@ BEGIN
             VALUE "FileDescription", "Winamp Visualization Plug-in"
             VALUE "FileVersion", "2,25,4,0"
             VALUE "InternalName", "Nullsoft Milkdrop v2"
-            VALUE "LegalCopyright", "Copyright © 2001-2023 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 2001-2024 Winamp SA"
             VALUE "OriginalFilename", "vis_milk2.dll"
             VALUE "ProductName", "Winamp"
             VALUE "ProductVersion", STR_WINAMP_PRODUCTVER

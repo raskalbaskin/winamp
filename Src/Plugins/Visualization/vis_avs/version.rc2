@@ -26,7 +26,7 @@ BEGIN
             VALUE "FileDescription", "Winamp Visualization Plug-in"
             VALUE "FileVersion", "2,9,3,0"
             VALUE "InternalName", "Advanced Visualization Studio"
-            VALUE "LegalCopyright", "Copyright © 2001-2023 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 2001-2024 Winamp SA"
             VALUE "LegalTrademarks", "Nullsoft and Winamp are trademarks of Winamp SA"
             VALUE "OriginalFilename", "vis_avs.dll"
             VALUE "ProductName", "Winamp"

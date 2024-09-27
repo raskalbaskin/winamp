@@ -25,7 +25,7 @@ BEGIN
             VALUE "FileDescription", "Winamp General Purpose Plug-in"
             VALUE "FileVersion", "1,16,0,0"
             VALUE "InternalName", "Nullsoft Winamp Error Feedback Plug-in"
-            VALUE "LegalCopyright", "Copyright © 2005-2023 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 2005-2024 Winamp SA"
             VALUE "LegalTrademarks", "Nullsoft and Winamp are trademarks of Winamp SA"
             VALUE "OriginalFilename", "gen_crasher.dll"
             VALUE "ProductName", "Winamp"

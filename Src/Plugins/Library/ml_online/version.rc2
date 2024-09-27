@@ -25,7 +25,7 @@ BEGIN
             VALUE "FileDescription", "Winamp Media Library Plug-in"
             VALUE "FileVersion", "2,0,3,0"
             VALUE "InternalName", "Nullsoft Online Services"
-            VALUE "LegalCopyright", "Copyright © 2006-2023 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 2006-2024 Winamp SA"
             VALUE "LegalTrademarks", "Nullsoft and Winamp are trademarks of Winamp SA"
             VALUE "OriginalFilename", "ml_online.dll"
             VALUE "ProductName", "Winamp"

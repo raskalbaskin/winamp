@@ -25,7 +25,7 @@ BEGIN
             VALUE "FileDescription", "Winamp Input Plug-in"
             VALUE "FileVersion", "4,6,0,0"
             VALUE "InternalName", "Nullsoft MPEG Audio Decoder"
-            VALUE "LegalCopyright", "Copyright © 1998-2023 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 1998-2024 Winamp SA"
             VALUE "LegalTrademarks", "Nullsoft and Winamp are trademarks of Winamp SA"
             VALUE "OriginalFilename", "in_mp3.dll"
             VALUE "ProductName", "Winamp"

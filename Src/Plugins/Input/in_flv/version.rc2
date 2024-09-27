@@ -25,7 +25,7 @@ BEGIN
             VALUE "FileDescription", "Winamp Input Plug-in"
             VALUE "FileVersion", "1,47,0,0"
             VALUE "InternalName", "Nullsoft Flash Video Decoder"
-            VALUE "LegalCopyright", "Copyright © 2006-2023 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 2006-2024 Winamp SA"
             VALUE "LegalTrademarks", "Nullsoft and Winamp are trademarks of Winamp SA"
             VALUE "OriginalFilename", "in_flv.dll"
             VALUE "ProductName", "Winamp"

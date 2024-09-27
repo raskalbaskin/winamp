@@ -25,7 +25,7 @@ BEGIN
             VALUE "FileDescription", "Winamp Tone Input Plug-in"
             VALUE "FileVersion", "0,2,0,1"
             VALUE "InternalName", "Nullsoft Tone Input"
-            VALUE "LegalCopyright", "Copyright © 2005-2023 Winamp SA"
+            VALUE "LegalCopyright", "Copyright © 2005-2024 Winamp SA"
             VALUE "LegalTrademarks", "Nullsoft and Winamp are trademarks of Winamp SA"
             VALUE "OriginalFilename", "in_tone.dll"
             VALUE "ProductName", "Winamp"
